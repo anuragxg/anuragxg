@@ -2,10 +2,11 @@
 
 # Hi, I'm Anurag 👋
 
-**Final-year B.Tech CSE student | Full-Stack Developer**
+**B.Tech CSE Graduate | Full-Stack Developer**
 
 Building full-stack products end to end — from real-time systems to 3D interactive UIs — and looking for my first role as a **Full Stack Developer / SDE-1**.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://anuragxg.github.io/MyPortfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-modanwal-352528254)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anuragxg)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/anuragxg)
@@ -18,16 +19,20 @@ Building full-stack products end to end — from real-time systems to 3D interac
 
 ### 🚀 What I'm building
 
-**[BMO — An Interactive Chatbot](https://github.com/anuragxg/bmo-chatbot)**
+**[BMO — An Interactive Chatbot](https://github.com/anuragxg/-bmo-chatbot)** · [Repo](https://github.com/anuragxg/-bmo-chatbot)
 A real-time 3D chatbot companion — React Three Fiber character with a full idle/gesture
 animation system (GSAP), Socket.IO for live chat, and a three-tier AI fallback
 (local Ollama → Gemini API → graceful degradation) so it works both offline and deployed.
 `React` `Three.js` `Node.js` `Express` `Socket.IO` `MongoDB`
 
-**AI Resume Analyzer**
-Full-stack tool that gives structured feedback on resumes using an LLM API, with a
-Python-based analysis layer behind a React/Node app.
-`React` `Node.js` `Express` `MongoDB` `Python`
+**JobTrail — Job Application Tracker** · [Live](https://my-jobtrail.vercel.app/) · [Repo](https://github.com/anuragxg/job-application-tracker)
+A full-stack tracker to organize and follow job applications through every stage, with a
+React front end and a Node/Express REST API backed by MongoDB.
+`React` `Node.js` `Express` `MongoDB`
+
+**Portfolio** · [Live](https://anuragxg.github.io/MyPortfolio/)
+My personal portfolio site showcasing my projects and background.
+`HTML` `CSS` `JavaScript`
 
 **Tech Tutor**
 An AI-assisted learning platform — my frontend work here was referenced in a paper
@@ -64,4 +69,4 @@ presented at Kalinga University's 2025 International Conference.
 
 ### 📫 Reach me
 
-[LinkedIn](https://linkedin.com/in/anurag-modanwal-352528254) — open to Full Stack Developer, SDE-1, and Support Engineer roles.
+[Portfolio](https://anuragxg.github.io/MyPortfolio/) · [LinkedIn](https://linkedin.com/in/anurag-modanwal-352528254) — open to Full Stack Developer, SDE-1, and Support Engineer roles.
