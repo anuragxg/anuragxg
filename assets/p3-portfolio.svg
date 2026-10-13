@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300">
+<defs>
+<linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#39ff88"/><stop offset="1" stop-color="#00f5ff"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1122"/><stop offset="1" stop-color="#120a26"/></linearGradient>
+<radialGradient id="gl" cx="0.88" cy="0.4" r="0.5"><stop offset="0" stop-color="#00f5ff" stop-opacity="0.28"/><stop offset="1" stop-color="#00f5ff" stop-opacity="0"/></radialGradient>
+<pattern id="gr" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26,0 H0 V26" fill="none" stroke="#00f5ff" stroke-opacity="0.06" stroke-width="1"/></pattern>
+</defs>
+<rect x="1" y="1" width="998" height="298" rx="14" fill="url(#bg)"/>
+<rect x="1" y="1" width="998" height="298" rx="14" fill="url(#gr)"/>
+<rect x="1" y="1" width="998" height="298" rx="14" fill="url(#gl)"/>
+<rect x="1" y="1" width="998" height="298" rx="14" fill="none" stroke="#39ff88" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="1" y="1" width="998" height="298" rx="14" fill="none" stroke="url(#a)" stroke-width="3" stroke-linecap="round" stroke-dasharray="220 2592"><animate attributeName="stroke-dashoffset" values="0;-2812" dur="6s" repeatCount="indefinite"/></rect>
+<text x="44" y="46" font-size="13" fill="#39ff88" font-family="'Courier New', Courier, monospace" letter-spacing="4">MODULE_03</text>
+<text x="956" y="46" font-size="13" fill="#00f5ff" font-family="'Courier New', Courier, monospace" letter-spacing="3" text-anchor="end">&gt; LIVE SITE<animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/></text>
+<text x="44" y="94" font-size="32" font-weight="bold" fill="url(#a)" font-family="'Courier New', Courier, monospace">PORTFOLIO // PERSONAL HQ</text>
+<text x="44" y="116" font-size="13" fill="#6b7a99" font-family="'Courier New', Courier, monospace" letter-spacing="3">SHOWCASE . PROJECTS . BACKGROUND</text>
+<text x="44" y="138" font-size="15" fill="#c9d6ee" font-family="'Courier New', Courier, monospace">My personal portfolio. Projects, background, and everything in one place.</text>
+<g transform="translate(44,238)"><rect width="129" height="30" rx="15" fill="#39ff88" fill-opacity="0.12" stroke="#39ff88" stroke-opacity="0.8"/><text x="65" y="20" font-size="13" fill="#e6f1ff" font-family="'Courier New', Courier, monospace" text-anchor="middle">GitHub Pages</text></g>
+<g transform="translate(860,150)">
+<circle r="74" fill="none" stroke="#39ff88" stroke-opacity="0.25" stroke-width="1"/>
+<circle r="62" fill="none" stroke="url(#a)" stroke-width="2.5" stroke-dasharray="14 10"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/></circle>
+<circle r="46" fill="none" stroke="#00f5ff" stroke-width="1.5" stroke-dasharray="4 8"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="9s" repeatCount="indefinite"/></circle>
+<circle r="30" fill="#39ff88" fill-opacity="0.08"><animate attributeName="r" values="28;34;28" dur="2.4s" repeatCount="indefinite"/></circle>
+<text y="8" font-size="22" font-weight="bold" fill="#fff" font-family="'Courier New', Courier, monospace" text-anchor="middle" letter-spacing="1">HQ</text>
+</g>
+</svg>
