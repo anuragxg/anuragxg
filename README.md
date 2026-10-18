@@ -1,21 +1,106 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" width="1000" height="480" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,Menlo,monospace" font-size="15">
-<defs>
-<clipPath id="win"><rect width="1000" height="480" rx="18"/></clipPath>
-<clipPath id="pan"><rect x="668" y="56" width="300" height="360"/></clipPath>
-<linearGradient id="av" gradientUnits="userSpaceOnUse" x1="0" y1="70" x2="0" y2="410"><stop offset="0" stop-color="#8ab4ff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
-<linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#8ab4ff" stop-opacity="0"/><stop offset="0.5" stop-color="#8ab4ff"/><stop offset="1" stop-color="#8ab4ff" stop-opacity="0"/></linearGradient>
-<radialGradient id="gl"><stop offset="0" stop-color="#8ab4ff" stop-opacity="0.2"/><stop offset="1" stop-color="#8ab4ff" stop-opacity="0"/></radialGradient>
-</defs>
-<rect width="1000" height="480" rx="18" fill="#0b0c10"/>
-<g clip-path="url(#win)"><circle cx="818" cy="230" r="230" fill="url(#gl)"><animateTransform attributeName="transform" type="translate" values="0 0;-30 20;0 0" dur="12s" repeatCount="indefinite"/></circle></g>
-<rect x="0.5" y="0.5" width="999" height="479" rx="18" fill="none" stroke="#1c1e27"/>
-<line x1="0" y1="44" x2="1000" y2="44" stroke="#1c1e27"/>
-<circle cx="28" cy="22" r="5" fill="#2a2d3a"/><circle cx="46" cy="22" r="5" fill="#2a2d3a"/><circle cx="64" cy="22" r="5" fill="#2a2d3a"/>
-<text x="500" y="27" font-size="12" fill="#6b6e7e" text-anchor="middle" letter-spacing="1">anurag@dev: ~/profile</text>
-<line x1="656" y1="64" x2="656" y2="440" stroke="#1c1e27"/>
-<clipPath id="k92"><rect x="36" y="74" width="0" height="26"><animate attributeName="width" from="0" to="62" dur="0.5s" begin="0.4s" fill="freeze"/></rect></clipPath><text x="36" y="92" clip-path="url(#k92)" fill="#f2f3f7"><tspan fill="#8ab4ff">$ </tspan>whoami</text><text x="36" y="116" fill="#f2f3f7" opacity="0" xml:space="preserve">Anurag - Full-Stack Developer<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.1s" fill="freeze"/></text><clipPath id="k156"><rect x="36" y="138" width="0" height="26"><animate attributeName="width" from="0" to="129" dur="0.7s" begin="1.7s" fill="freeze"/></rect></clipPath><text x="36" y="156" clip-path="url(#k156)" fill="#f2f3f7"><tspan fill="#8ab4ff">$ </tspan>cat about.txt</text><text x="36" y="180" fill="#9a9db0" opacity="0" xml:space="preserve">B.Tech CSE graduate. I build real-time systems,<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.5s" fill="freeze"/></text><text x="36" y="202" fill="#9a9db0" opacity="0" xml:space="preserve">3D interfaces and AI-powered products.<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.7s" fill="freeze"/></text><clipPath id="k242"><rect x="36" y="224" width="0" height="26"><animate attributeName="width" from="0" to="119" dur="0.6s" begin="3.3s" fill="freeze"/></rect></clipPath><text x="36" y="242" clip-path="url(#k242)" fill="#f2f3f7"><tspan fill="#8ab4ff">$ </tspan>ls projects/</text><text x="36" y="266" fill="#c7c9d4" opacity="0" xml:space="preserve">bmo-chatbot/   jobtrail/   portfolio/   tech-tutor/<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.0s" fill="freeze"/></text><clipPath id="k306"><rect x="36" y="288" width="0" height="26"><animate attributeName="width" from="0" to="129" dur="0.7s" begin="4.6s" fill="freeze"/></rect></clipPath><text x="36" y="306" clip-path="url(#k306)" fill="#f2f3f7"><tspan fill="#8ab4ff">$ </tspan>cat stack.txt</text><text x="36" y="330" fill="#c7c9d4" opacity="0" xml:space="preserve">React  Node.js  Express  MongoDB  Three.js<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="5.4s" fill="freeze"/></text><text x="36" y="352" fill="#c7c9d4" opacity="0" xml:space="preserve">Socket.IO  Python  Git  Linux<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="5.6s" fill="freeze"/></text><clipPath id="k392"><rect x="36" y="374" width="0" height="26"><animate attributeName="width" from="0" to="62" dur="0.5s" begin="6.2s" fill="freeze"/></rect></clipPath><text x="36" y="392" clip-path="url(#k392)" fill="#f2f3f7"><tspan fill="#8ab4ff">$ </tspan>status</text><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="6.8s" fill="freeze"/><circle cx="41" cy="411" r="4" fill="#4ade80"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></circle><text x="56" y="416" fill="#f2f3f7">Open to work: SDE-1 / Full Stack / Support Eng.</text></g><text x="36" y="456" fill="#8ab4ff" opacity="0">$<animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="7.4s" fill="freeze"/></text><rect x="54" y="443" width="9" height="17" fill="#8ab4ff" opacity="0"><animate attributeName="opacity" values="1;0;1" dur="1.1s" begin="7.4s" repeatCount="indefinite"/></rect>
-<g font-size="12" fill="url(#av)"><text x="818" y="125" xml:space="preserve" text-anchor="middle" opacity="0">%[)$(<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.60s" fill="freeze"/></text><text x="818" y="136" xml:space="preserve" text-anchor="middle" opacity="0">&amp;{+/&lt;&gt;**=&amp;{<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.68s" fill="freeze"/></text><text x="818" y="147" xml:space="preserve" text-anchor="middle" opacity="0">}(+/&lt;&gt;**=+/&amp;{<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.77s" fill="freeze"/></text><text x="818" y="158" xml:space="preserve" text-anchor="middle" opacity="0">$+/&lt;:;..:/&lt;&gt;&amp;<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.85s" fill="freeze"/></text><text x="818" y="169" xml:space="preserve" text-anchor="middle" opacity="0">[+/&lt;:;..:;.&gt;*={<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.94s" fill="freeze"/></text><text x="818" y="180" xml:space="preserve" text-anchor="middle" opacity="0">%/&lt;&gt;;..:;.:*=+&amp;<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.02s" fill="freeze"/></text><text x="818" y="191" xml:space="preserve" text-anchor="middle" opacity="0">#&lt;&gt;*.::;.:;=++(<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.11s" fill="freeze"/></text><text x="818" y="202" xml:space="preserve" text-anchor="middle" opacity="0">#*=+:;.:;=+/$<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.20s" fill="freeze"/></text><text x="818" y="213" xml:space="preserve" text-anchor="middle" opacity="0">]#+//&lt;&gt;*=+/[)<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.28s" fill="freeze"/></text><text x="818" y="224" xml:space="preserve" text-anchor="middle" opacity="0">]#/&lt;&gt;*=+/]%<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.36s" fill="freeze"/></text><text x="818" y="235" xml:space="preserve" text-anchor="middle" opacity="0">[*=+(<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.45s" fill="freeze"/></text><text x="818" y="246" xml:space="preserve" text-anchor="middle" opacity="0">%=+/}<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.54s" fill="freeze"/></text><text x="818" y="257" xml:space="preserve" text-anchor="middle" opacity="0">#+/&lt;$<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.62s" fill="freeze"/></text><text x="818" y="268" xml:space="preserve" text-anchor="middle" opacity="0">&amp;{]/&lt;&gt;)}(<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.71s" fill="freeze"/></text><text x="818" y="279" xml:space="preserve" text-anchor="middle" opacity="0">%[)}(&amp;{]#%)$}(&amp;{]<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.79s" fill="freeze"/></text><text x="818" y="290" xml:space="preserve" text-anchor="middle" opacity="0">{]#%)$+/&lt;&gt;*==+/}(&amp;{#%<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.88s" fill="freeze"/></text><text x="818" y="301" xml:space="preserve" text-anchor="middle" opacity="0">(&amp;{]==+/&lt;&gt;*==+/&lt;&gt;*={]#%<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.96s" fill="freeze"/></text><text x="818" y="312" xml:space="preserve" text-anchor="middle" opacity="0">)$}(*==+/&lt;&gt;*==+/&lt;&gt;*=++/]#%[<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.04s" fill="freeze"/></text><text x="818" y="323" xml:space="preserve" text-anchor="middle" opacity="0">%[)$*==+/&lt;&gt;*=++/&lt;&gt;*=++/&lt;&gt;]#%[<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.13s" fill="freeze"/></text><text x="818" y="334" xml:space="preserve" text-anchor="middle" opacity="0">#%[*=++/&lt;&gt;*=::;.:*=+//&lt;&gt;*=]#[<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.22s" fill="freeze"/></text><text x="818" y="345" xml:space="preserve" text-anchor="middle" opacity="0">{]#*=++/&lt;&gt;;.:;;.:;.:;/&lt;&gt;*=+/]%[<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.30s" fill="freeze"/></text><text x="818" y="356" xml:space="preserve" text-anchor="middle" opacity="0">(&amp;{*=+//&lt;&gt;;.:       ;..&gt;*=+/&lt;&lt;#%[<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.39s" fill="freeze"/></text><text x="818" y="367" xml:space="preserve" text-anchor="middle" opacity="0">}(&amp;=+//&lt;&gt;;.:;..:;.:;..:;=+/&lt;&gt;&gt;]#%<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.47s" fill="freeze"/></text><text x="818" y="378" xml:space="preserve" text-anchor="middle" opacity="0">$}=+/&lt;&lt;&gt;;.:;..:;.:;.::;.:/&lt;&gt;&gt;*=]#<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.56s" fill="freeze"/></text><text x="818" y="389" xml:space="preserve" text-anchor="middle" opacity="0">)$+/&lt;&lt;&gt;*.:;.::;.:;.::;.:;&lt;&gt;**=+{]<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.64s" fill="freeze"/></text><text x="818" y="400" xml:space="preserve" text-anchor="middle" opacity="0">%[)/&lt;&gt;&gt;*=:;.::;.:;.:;;.:;.&gt;**=+/&amp;{]<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.73s" fill="freeze"/></text></g>
-<text x="818" y="356" font-size="12" fill="#f2f3f7" text-anchor="middle" font-weight="bold" opacity="0">&lt;/&gt;<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.6s" fill="freeze"/></text>
-<g clip-path="url(#pan)"><rect x="668" y="56" width="300" height="2" fill="url(#sw)" opacity="0"><animate attributeName="opacity" from="0" to="0.7" dur="0.1s" begin="4s" fill="freeze"/><animate attributeName="y" values="56;414" dur="4.5s" begin="4s" repeatCount="indefinite"/></rect></g>
-<text x="818" y="458" font-size="11" fill="#6b6e7e" text-anchor="middle" letter-spacing="2">// avatar.render()</text>
-</svg>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0c10,100:1b2a55&height=210&section=header&text=Anurag&fontSize=68&fontColor=f2f3f7&fontAlignY=42&desc=Full-Stack%20Developer&descSize=20&descColor=8ab4ff&descAlignY=66&animation=fadeIn" width="100%" alt="Anurag - Full-Stack Developer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&duration=3200&pause=1100&color=8AB4FF&center=true&vCenter=true&width=640&height=40&lines=%24+whoami;%24+cat+about.txt;%24+ls+projects%2F;%24+status+--open-to-work" alt="Terminal typing animation" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-14161d?style=flat-square&logo=githubpages&logoColor=8ab4ff)](https://anuragxg.github.io/MyPortfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-14161d?style=flat-square&logo=linkedin&logoColor=8ab4ff)](https://linkedin.com/in/anurag-modanwal-352528254)
+[![LeetCode](https://img.shields.io/badge/LeetCode-14161d?style=flat-square&logo=leetcode&logoColor=8ab4ff)](https://leetcode.com/u/anuragxg)
+[![CodeChef](https://img.shields.io/badge/CodeChef-14161d?style=flat-square&logo=codechef&logoColor=8ab4ff)](https://codechef.com/users/anuragxg)
+[![HackerRank](https://img.shields.io/badge/HackerRank-14161d?style=flat-square&logo=hackerrank&logoColor=8ab4ff)](https://hackerrank.com/profile/anuragxg)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14161d?style=flat-square&logo=geeksforgeeks&logoColor=8ab4ff)](https://geeksforgeeks.org/profile/anuragxg)
+
+</div>
+
+<br/>
+
+```ts
+const anurag = {
+  role: "Full-Stack Developer",
+  education: "B.Tech CSE (completed)",
+  builds: ["real-time systems", "3D interactive interfaces", "AI-powered products"],
+  stack: ["React", "Node.js", "Express", "MongoDB", "Three.js", "Socket.IO", "Python"],
+  status: "Open to work: SDE-1 / Full Stack Developer / Support Engineer",
+};
+```
+
+<br/>
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[BMO — Interactive 3D Chatbot](https://github.com/anuragxg/-bmo-chatbot)**
+
+A real-time 3D chatbot companion. React Three Fiber character with a full idle/gesture animation system (GSAP), live chat over Socket.IO, and a three-tier AI fallback: local Ollama, Gemini API, graceful degradation, so it works offline and deployed.
+
+`React` · `Three.js` · `Node.js` · `Express` · `Socket.IO` · `MongoDB` · `GSAP`
+
+[Repository →](https://github.com/anuragxg/-bmo-chatbot)
+
+</td>
+<td width="50%" valign="top">
+
+**[JobTrail — Application Tracker](https://my-jobtrail.vercel.app/)**
+
+Track every job application through every stage. A full-stack app with a React front end and a Node/Express REST API backed by MongoDB, deployed on Vercel.
+
+`React` · `Node.js` · `Express` · `MongoDB` · `Vercel`
+
+[Live demo →](https://my-jobtrail.vercel.app/) &nbsp;·&nbsp; [Repository →](https://github.com/anuragxg/job-application-tracker)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Portfolio](https://anuragxg.github.io/MyPortfolio/)**
+
+My personal portfolio. Projects, background, and everything in one place, hosted on GitHub Pages.
+
+`HTML` · `GitHub Pages`
+
+[Live site →](https://anuragxg.github.io/MyPortfolio/)
+
+</td>
+<td width="50%" valign="top">
+
+**Tech Tutor — AI Learning Platform**
+
+An AI-assisted learning platform. My frontend work was referenced in a paper presented at Kalinga University's 2025 International Conference.
+
+`React`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,threejs,tailwind,python,git,linux,vercel&theme=dark" alt="Tech stack" />
+
+</div>
+
+<br/>
+
+## Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anuragxg&show_icons=true&hide_border=false&border_radius=14&bg_color=0e1015&border_color=1c1e27&title_color=f2f3f7&text_color=9a9db0&icon_color=8ab4ff" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragxg&layout=compact&hide_border=false&border_radius=14&bg_color=0e1015&border_color=1c1e27&title_color=f2f3f7&text_color=9a9db0" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0c10,100:1b2a55&height=90&section=footer&text=Let's%20build%20something%20great.&fontSize=22&fontColor=9a9db0&fontAlignY=60&animation=fadeIn" width="100%" alt="Let's build something great." />
+
+</div>
